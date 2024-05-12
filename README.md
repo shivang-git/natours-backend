@@ -1,6 +1,5 @@
 # 🤖 Natours - backend
 
-Exciting tours for adventurous people. Natours is an application for users to book tours.
 
 This repo is just the backend of the whole application. There is a separate repo for the frontend that you can check out [here](https://github.com/ArunBohra12/natours).
 
